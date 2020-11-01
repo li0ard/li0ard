@@ -10,6 +10,4 @@
 
 [![3peekawOwD Stat's](https://github-readme-stats.vercel.app/api/top-langs/?username=3peekawOwD&layout=compact&count_private=true&hide_border=true)](https://vk.com/3peekawOwD)
 
-<a href="https://lolz.guru/" title="Наш партнер | Форум социальной инженерии">
-  <img src="https://lolz.guru/public/others2/small_2.gif" width="88" height="31" alt="">
-</a>
+[![OverNull](https://overnull.ru/styles/uixdark/basic/publicLogoUrl.gif)](https://overnull.ru?utm_source=github "Наш партнер | Форум информационной безопасности")
