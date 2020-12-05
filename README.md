@@ -12,6 +12,4 @@
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/telegram.svg" />
 </a>
 
-<hr>
-
 ![3peekawOwD Stat's](https://github-readme-stats.vercel.app/api?username=3peekawOwD&show_icons=true&hide_border=true)  ![3peekawOwD Stat's](https://github-readme-stats.vercel.app/api/top-langs/?username=3peekawOwD&layout=compact&count_private=true&hide_border=true)
