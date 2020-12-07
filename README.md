@@ -8,11 +8,11 @@
 
 + **📞 Связь со мной**
 
-<a href="https://t.me/NickProgramm">
+<a href="https://t.me/li0ard">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/telegram.svg" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/3peekawOwD"><img align="center" src="https://github-readme-stats.vercel.app/api?username=3peekawOwD&show_icons=true&hide_border=true"></a>
-<a href="https://github.com/3peekawOwD"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3peekawOwD&layout=compact&count_private=true&hide_border=true"></a>
+<a href="https://github.com/li0ard"><img align="center" src="https://github-readme-stats.vercel.app/api?username=li0ard&show_icons=true&hide_border=true"></a>
+<a href="https://github.com/li0ard"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li0ard&layout=compact&count_private=false&hide_border=true"></a>
