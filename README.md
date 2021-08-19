@@ -8,7 +8,7 @@
 
 + **📞 Связь со мной**
 
-<a href="https://t.me/li0ard">
+<a href="https://t.me/somebadnick">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/telegram.svg" />
 </a>
 
