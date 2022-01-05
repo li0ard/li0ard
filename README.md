@@ -1,4 +1,7 @@
-### Ку-ку 👋
+<center>
+<img align="center" src="PDljal6p.gif">
+<img align="center" src="FjkwLxn1.gif">
+</center>
 
 
 + **🛠 Языки и инструменты:**
