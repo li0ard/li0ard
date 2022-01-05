@@ -1,21 +1,28 @@
-<center>
-<img align="center" src="PDljal6p.gif">
-<img align="center" src="FjkwLxn1.gif">
-</center>
+<p align="center">
+  <img style="width: 317px;" align="center" src="PDljal6p.gif">
+  <br>
+  <img align="center" src="FjkwLxn1.gif">
+</p>
 
+<h2 align="center">Hi :wave:!</h2>
+<p align="center">My name is Artem and welcome to my profile</p>
 
-+ **🛠 Языки и инструменты:**
+```js
+const { profile } = require("github");
+console.log(profile);
+```
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+```csharp
+About me
+------------------------------------------
+Name: Artem
+Lastname: Petrenko
+Nickname: li0ard
+Gender: Сombat helicopter MI-28
+Age: null
+Languages: Belarussian, English, Russian, Some Polish
+```
 
-
-+ **📞 Связь со мной**
-
-<a href="https://t.me/somebadnick">
-  <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/telegram.svg" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/li0ard"><img align="center" src="https://github-readme-stats.vercel.app/api?username=li0ard&show_icons=true&hide_border=true"></a>
-<a href="https://github.com/li0ard"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li0ard&layout=compact&count_private=false&hide_border=true"></a>
+<p align="center">
+  <img align="center" src="zgWxULPr.gif">
+</p>
