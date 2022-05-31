@@ -23,6 +23,12 @@ Age: null
 Languages: Belarussian, English, Russian, Some Polish
 ```
 
+```csharp
+Support me
+------------------------------------------
+ETH: 0x1C4688e7e1F8964230F8145d743bdf94fAE19513
+XMR: Soon
+```
 <p align="center">
   <img align="center" src="zgWxULPr.gif">
 </p>
