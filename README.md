@@ -35,6 +35,10 @@ Support me
   <summary>XMR</summary>
   <p align="center"><img src="https://chart.googleapis.com/chart?chs=150x150&chld=M|0&cht=qr&chl=monero:41yYWQ2rXRqMKJY6pS3qE7davUi8bPoVoXC3eY6LnL1A4Qig6W8eVfxRPC8QiwKQf3WMZJwchoHFyWZbSGKFd1y33cRC8Qr"><br><code>41yYWQ2rXRqMKJY6pS3qE7davUi8bPoVoXC3eY6LnL1A4Qig6W8eVfxRPC8QiwKQf3WMZJwchoHFyWZbSGKFd1y33cRC8Qr</code></p>
 </details>
+<details>
+  <summary>DOGE</summary>
+  <p align="center"><img src="https://chart.googleapis.com/chart?chs=150x150&chld=M|0&cht=qr&chl=DEtTgRNwNoG3FU7uMMNwrADLDTRs1nGn4V"><br><code>DEtTgRNwNoG3FU7uMMNwrADLDTRs1nGn4V</code></p>
+</details>
 <p align="center">
   <img align="center" src="zgWxULPr.gif">
 </p>
