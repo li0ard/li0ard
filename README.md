@@ -18,9 +18,8 @@ About me
 Name: Artem
 Lastname: Petrenko
 Nickname: li0ard
-Gender: Сombat helicopter MI-28
 Age: null
-Languages: Belarussian, English, Russian, Some Polish
+Languages: Belarussian, English, Russian
 ```
 
 ```csharp
