@@ -19,7 +19,7 @@ Name: Artem
 Lastname: Petrenko
 Nickname: li0ard
 Age: null
-Languages: Belarussian, English, Russian
+Languages: English, Russian
 ```
 
 ```csharp
