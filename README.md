@@ -23,6 +23,15 @@ Programming languages:
 - Some PHP and Go
 ```
 
+```js
+const { stats } = require("github-readme-stats");
+stats.visualize()
+```
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=li0ard&theme=github_dark_dimmed#gh-dark-mode-only">
+</p>
+
 <p align="center">
   <img align="center" src="zgWxULPr.gif">
 </p>
