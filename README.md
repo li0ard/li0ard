@@ -29,7 +29,7 @@ stats.visualize()
 ```
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=li0ard&theme=github_dark_dimmed#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=li0ard&theme=github_dark_dimmed&custom_title=My%20cool%20stats%20(no)#gh-dark-mode-only">
 </p>
 
 <p align="center">
