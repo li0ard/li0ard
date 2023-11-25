@@ -14,7 +14,7 @@ console.log(profile);
 ```csharp
 About me
 ------------------------------------------
-Name: Artem Petrenko aka li0ard
+Name: Nikolai Konovalov aka li0ard
 Age: null
 Languages:  🇬🇧/🇺🇸 English (B2), 🇷🇺 Russian (native), 🇺🇦 Ukrainian (B1)
 Programming languages:
