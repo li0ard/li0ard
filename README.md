@@ -10,7 +10,7 @@ About me
 ------------------------------------------
 Name: Nikolai Konovalov aka li0ard
 Age: null
-Languages:  🇬🇧/🇺🇸 English (B2), 🇷🇺 Russian (native), 🇺🇦 Ukrainian (B1)
+Languages:  🇬🇧/🇺🇸 English (B2), 🇷🇺 Russian (native), 🇺🇦 Ukrainian (A2)
 Programming languages:
 - JS
 - Python
