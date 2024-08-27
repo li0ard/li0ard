@@ -1,7 +1,7 @@
 <h2 align="center">Hi :wave:!</h2>
 
-```js
-const { profile } = require("github");
+```ts
+import profile from "@github/profile";
 console.log(profile);
 ```
 
@@ -12,14 +12,14 @@ Name: Nikolai Konovalov aka li0ard
 Age: null
 Languages:  🇬🇧/🇺🇸 English (B2), 🇷🇺 Russian (native), 🇺🇦 Ukrainian (A2)
 Programming languages:
-- JS
+- JS/TS
 - Python
 - Some PHP and Go
 ```
 
 ```js
-const { stats } = require("github-readme-stats");
-stats.visualize()
+import { visualize } from "@github/stats";
+visualize();
 ```
 
 <p align="center">
