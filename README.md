@@ -31,13 +31,6 @@ Started by writing Discord and Telegram bots, now writing backend and frontend, 
 - 🇬🇧 English (B2)
 - 🇺🇦 Ukrainian (A2)
 
-### Contacts
-
-- [Site](https://li0ard.rest)
-- [Telegram](https://ithinkiwonthislife.t.me)
-- [XMPP](https://www.xmpp.jp/vcard/li0ard)
-- [E-Mail](mailto:li0ard@li0ard.rest)
-
 ### Projects
 
 - **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder according to GOST 2012 from CryptoPro**
