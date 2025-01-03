@@ -1,13 +1,13 @@
-# Hi :wave:!
+# Hi :wave:! <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fli0ard%2Fli0ard&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%81+Visitors&edge_flat=false" />
 
   <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true#gh-dark-mode-only">
   <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true&hide=html">
 
-My name is **Nikolai Konovalov**, also you may know me as **li0ard** (pronounced *Lizard*).
+My name is **Nikolai Konovalov**, also you may know me as **li0ard** (pronounced *Lizard*). Im an Open Source enthusiast and software engineer. I ❤️ coffee, Linux, music, books, cryptography and films.
 
-Started by writing Discord and Telegram bots, now writing backend and frontend, some libs and CLI's. Love working with cryptography.
+Started by writing Discord and Telegram bots, now designing and writing backend/frontend, writing articles about my work and administrating I2P servers.
 
-### Languages and tools
+### 🔧 Languages and tools
 
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat&logo=javascript&logoColor=white" /></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-235a96?style=flat&logo=typescript&logoColor=white" /></a>
@@ -16,22 +16,23 @@ Started by writing Discord and Telegram bots, now writing backend and frontend, 
 <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /></a>
 <a href="https://bun.sh/"><img alt="Node.js" src="https://img.shields.io/badge/-Bun-222222?style=flat&logo=Bun&logoColor=white" /></a>
 <a href="https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/-Express-fdfdfd?style=flat&logo=express&logoColor=black" /></a>
-<a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/-Jest-97747e?style=flat&logo=Jest&logoColor=white" /></a>
+<a href="https://nestjs.com/"><img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-e0234e?style=flat&logo=nestjs&logoColor=white" /></a>
 <a href="https://leafletjs.com/"><img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-222222?logo=leaflet" /></a>
-<a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/-Linux-ffd133?style=flat&logo=Linux&logoColor=black" /></a>
+<a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-282c34?style=flat&logo=react&logoColor=white" /></a>
+<a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-222222?style=flat&logo=vuedotjs" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"><img alt="PWA" src="https://img.shields.io/badge/-PWA-222222?logo=pwa" /></a>
 <a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20linux-222222?logo=archlinux" /></a>
 <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-white?logo=intellijidea&logoColor=black" /></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0066b8?style=flat&logo=visualstudiocode&logoColor=white" /></a>
-<a href="https://cloudflare.com/"><img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-222222?logo=cloudflare" /></a>
-<a href="https://cryptpad.fr/"><img alt="Cryptpad" src="https://img.shields.io/badge/-Cryptpad-0087FF?logo=cryptpad&logoColor=white" /></a>
-<a href="https://figma.com/"><img alt="Figma" src="https://img.shields.io/badge/-Figma-222222?logo=figma" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"><img alt="PWA" src="https://img.shields.io/badge/-PWA-222222?logo=pwa" /></a>
 
-- 🇷🇺 Russian (native)
-- 🇬🇧 English (B2)
-- 🇺🇦 Ukrainian (A2)
 
-### Projects
+|   Language   | CEFR level |
+|:------------:|:----------:|
+|  🇷🇺 Russian  |   Native   |
+|  🇬🇧 English  |     [B2](https://cert.efset.org/YgSdsY)     |
+| 🇺🇦 Ukrainian |     A2     |
+
+### 💡 Projects
 
 - **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder according to GOST 2012 from CryptoPro**
 - **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder according to GOST 2012 from CryptoPro**
