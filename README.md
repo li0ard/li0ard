@@ -41,3 +41,4 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[Session ID](https://github.com/theinfinityway/session_id)** - **Library for working with [Session](https://getsession.org) User ID's**
 - **[sshsign](https://github.com/theinfinityway/sshsign)** - **Simple CLI for signing files using SSH keys**
 - **[tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
+- **[crapto1_ts](https://github.com/li0ard/crapto1_ts)** - **Recovering MIFARE Classic keys in TypeScript**
