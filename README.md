@@ -1,4 +1,4 @@
-# Hi :wave:! <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fli0ard%2Fli0ard&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%81+Visitors&edge_flat=false" />
+# Hi :wave:! <img align="right" src="https://komarev.com/ghpvc/?username=li0ard&color=79C83D&abbreviated=true&label=%F0%9F%91%81+Visitors+%20&base=341" />
 
   <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true#gh-dark-mode-only">
   <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true&hide=html">
