@@ -42,3 +42,4 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[sshsign](https://github.com/theinfinityway/sshsign)** - **Simple CLI for signing files using SSH keys**
 - **[tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
 - **[crapto1_ts](https://github.com/li0ard/crapto1_ts)** - **Recovering MIFARE Classic keys in TypeScript**
+- **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **Playground for KeeLoq cipher**
