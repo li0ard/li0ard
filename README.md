@@ -43,3 +43,4 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
 - **[crapto1_ts](https://github.com/li0ard/crapto1_ts)** - **Recovering MIFARE Classic keys in TypeScript**
 - **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **Playground for KeeLoq cipher**
+- **[@li0ard/ons](https://github.com/li0ard/ons)** - **Library for working with [Oxen Name System](https://oxen.io/oxen-name-system-ons-the-facts)**
