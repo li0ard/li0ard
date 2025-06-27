@@ -34,10 +34,10 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 
 ### 💡 Projects
 
-- **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder according to GOST 2012 from CryptoPro**
-- **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder according to GOST 2012 from CryptoPro**
+- **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder for CryptoPro**
+- **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder for CryptoPro**
 - **[nechestniy_znak](https://github.com/li0ard/nechestniy_znak)** - **Library for working with national product labeling system in Russia (In russian - Честный знак)**
-- **[oms-barcode](https://github.com/li0ard/oms-barcode)** - **Barcode decoder of Russian compulsory medical insurance policy (In russian - ОМС)**
+- **[oms-barcode](https://github.com/li0ard/oms_barcode)** ([legacy version](https://github.com/li0ard/oms-barcode)) - **Barcode decoder of Russian compulsory medical insurance policy (In russian - ОМС)**
 - **[Session ID](https://github.com/theinfinityway/session_id)** - **Library for working with [Session](https://getsession.org) User ID's**
 - **[sshsign](https://github.com/theinfinityway/sshsign)** - **Simple CLI for signing files using SSH keys**
 - **[tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
