@@ -46,3 +46,4 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[@li0ard/ons](https://github.com/li0ard/ons)** - **Library for working with [Oxen Name System](https://oxen.io/oxen-name-system-ons-the-facts)**
 - **[@li0ard/streebog](https://github.com/li0ard/streebog)** - **Streebog (aka GOST R 34.11-2012) hash function in pure TypeScript**
 - **[@li0ard/gost3413](https://github.com/li0ard/gost3413)** - **Cipher modes and padding's according to GOST R 34.13-2015 in pure TypeScript**
+- **[@li0ard/magma](https://github.com/li0ard/magma)** - **Magma cipher implementation in pure TypeScript**
