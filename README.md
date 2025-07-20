@@ -34,7 +34,7 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 
 ### 💡 Projects
 
-- **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder for CryptoPro**
+- **[cpfx](https://github.com/li0ard/cpfx) ([web version](https://github.com/li0ard/cpfx))** - **PFX decoder for CryptoPro**
 - **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder for CryptoPro**
 - **[nechestniy_znak](https://github.com/li0ard/nechestniy_znak)** - **Library for working with national product labeling system in Russia (In russian - Честный знак)**
 - **[oms-barcode](https://github.com/li0ard/oms_barcode)** ([legacy version](https://github.com/li0ard/oms-barcode)) - **Barcode decoder of Russian compulsory medical insurance policy (In russian - ОМС)**
@@ -48,3 +48,4 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[@li0ard/gost3413](https://github.com/li0ard/gost3413)** - **Cipher modes and padding's according to GOST R 34.13-2015 in pure TypeScript**
 - **[@li0ard/magma](https://github.com/li0ard/magma)** - **Magma cipher implementation in pure TypeScript**
 - **[@li0ard/kuznyechik](https://github.com/li0ard/kuznyechik)** - **Kuznyechik cipher implementation in pure TypeScript**
+- **[@li0ard/gost341194](https://github.com/li0ard/gost341194)** - **GOST R 34.11-94 hash function in pure TypeScript**
