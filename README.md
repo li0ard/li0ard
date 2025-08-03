@@ -42,7 +42,6 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[sshsign](https://github.com/theinfinityway/sshsign)** - **Simple CLI for signing files using SSH keys**
 - **[tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
 - **[crapto1_ts](https://github.com/li0ard/crapto1_ts)** - **Recovering MIFARE Classic keys in TypeScript**
-- **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **Playground for KeeLoq cipher**
 - **[@li0ard/ons](https://github.com/li0ard/ons)** - **Library for working with [Oxen Name System](https://oxen.io/oxen-name-system-ons-the-facts)**
 
 ##### 🔐 GOST algorithms
@@ -52,3 +51,7 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[@li0ard/kuznyechik](https://github.com/li0ard/kuznyechik)** - **Kuznyechik cipher implementation**
 - **[@li0ard/gost341194](https://github.com/li0ard/gost341194)** - **GOST R 34.11-94 hash function**
 - **[@li0ard/gostcurves](https://github.com/li0ard/gostcurves)** - **GOST R 34.10 (2001/2012) curves and DSA**
+
+##### 🔐 Other algorithms
+- **[@li0ard/kupyna](https://github.com/li0ard/kupyna)** - **Kupyna (DSTU 7564:2014) hash function**
+- **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **KeeLoq cipher implementation**
