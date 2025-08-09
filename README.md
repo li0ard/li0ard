@@ -36,6 +36,7 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 
 - **[cpfx](https://github.com/li0ard/cpfx) ([web version](https://github.com/li0ard/cpfx_web))** - **PFX decoder for CryptoPro**
 - **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder for CryptoPro**
+- **[rutoken_go](https://github.com/li0ard/rutoken_go)** - **Container extractor for Rutoken Lite**
 - **[nechestniy_znak](https://github.com/li0ard/nechestniy_znak)** - **Library for working with national product labeling system in Russia (In russian - Честный знак)**
 - **[oms-barcode](https://github.com/li0ard/oms_barcode)** ([legacy version](https://github.com/li0ard/oms-barcode)) - **Barcode decoder of Russian compulsory medical insurance policy (In russian - ОМС)**
 - **[Session ID](https://github.com/theinfinityway/session_id)** - **Library for working with [Session](https://getsession.org) User ID's**
