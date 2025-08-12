@@ -54,7 +54,7 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 
 ##### 🔐 DSTU algorithms (🇺🇦)
 - **[@li0ard/kupyna](https://github.com/li0ard/kupyna)** - **Kupyna (DSTU 7564:2014) hash function**
-- **[@li0ard/kalyna](https://github.com/li0ard/kalyna)** - **Strumok (DSTU 7624:2014) cipher implementation**
+- **[@li0ard/kalyna](https://github.com/li0ard/kalyna)** - **Kalyna (DSTU 7624:2014) cipher implementation**
 - **[@li0ard/strumok](https://github.com/li0ard/strumok)** - **Strumok (DSTU 8845:2019) cipher implementation**
 
 ##### 🔐 Other algorithms
