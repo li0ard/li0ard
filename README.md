@@ -45,10 +45,10 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[@li0ard/ons](https://github.com/li0ard/ons)** - **Library for working with [Oxen Name System](https://oxen.io/oxen-name-system-ons-the-facts)**
 
 ##### 🔐 GOST algorithms (🇷🇺)
-- **[@li0ard/streebog](https://github.com/li0ard/streebog)** - **Streebog (aka GOST R 34.11-2012) hash function**
+- **[@li0ard/streebog](https://github.com/li0ard/streebog)** - **Streebog (GOST R 34.11-2012) hash function**
 - **[@li0ard/gost3413](https://github.com/li0ard/gost3413)** - **Cipher modes and padding's according to GOST R 34.13-2015**
-- **[@li0ard/magma](https://github.com/li0ard/magma)** - **Magma (aka GOST R 34.12-2015 and GOST 28147-89) cipher implementation**
-- **[@li0ard/kuznyechik](https://github.com/li0ard/kuznyechik)** - **Kuznyechik cipher implementation**
+- **[@li0ard/magma](https://github.com/li0ard/magma)** - **Magma (GOST R 34.12-2015/GOST 28147-89) cipher implementation**
+- **[@li0ard/kuznyechik](https://github.com/li0ard/kuznyechik)** - **Kuznyechik (GOST R 34.12-2015) cipher implementation**
 - **[@li0ard/gost341194](https://github.com/li0ard/gost341194)** - **GOST R 34.11-94 hash function**
 - **[@li0ard/gostcurves](https://github.com/li0ard/gostcurves)** - **GOST R 34.10 (2001/2012) curves and DSA**
 
