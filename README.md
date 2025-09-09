@@ -58,6 +58,9 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[@li0ard/strumok](https://github.com/li0ard/strumok)** - **Strumok (DSTU 8845:2019) cipher implementation**
 - **[dstu4145_go](https://github.com/li0ard/dstu4145_go)** - **DSTU 4145-2002 curves and DSA in Go**
 
+##### 🔐 STB algorithms (🇧🇾)
+- **[@li0ard/bash](https://github.com/li0ard/bash)** - **Bash (STB 34.101.77) hash function**
+
 ##### 🔐 Other algorithms
 - **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **KeeLoq cipher implementation**
 - **[@li0ard/crapto1_ts](https://github.com/li0ard/crapto1_ts)** - **Crypto-1 cipher implementation. Recovering MIFARE Classic keys in TypeScript**
