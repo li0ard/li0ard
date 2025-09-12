@@ -60,6 +60,7 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 
 ##### 🔐 STB algorithms (🇧🇾)
 - **[@li0ard/bash](https://github.com/li0ard/bash)** - **Bash (STB 34.101.77) hash function**
+- **[@li0ard/belt](https://github.com/li0ard/belt)** - **BelT (STB 34.101.31) cipher implementation**
 
 ##### 🔐 Other algorithms
 - **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **KeeLoq cipher implementation**
