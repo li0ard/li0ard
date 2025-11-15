@@ -47,6 +47,7 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 ##### 🛂 eMRTD
 - **[@li0ard/tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
 - **[@li0ard/jp2](https://github.com/li0ard/jp2)** - **JPEG2000 to PNG converter**
+- **[@li0ard/wsq](https://github.com/li0ard/wsq)** - **Wavelet Scalar Quantization (WSQ) to PNG converter**
 
 ##### 🔐 GOST algorithms (🇷🇺)
 - **[@li0ard/streebog](https://github.com/li0ard/streebog)** - **Streebog (GOST R 34.11-2012) hash function**
