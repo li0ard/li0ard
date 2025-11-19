@@ -21,7 +21,7 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 <a href="https://svelte.dev"><img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" /></a>
 <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"><img alt="PWA/SPA" src="https://img.shields.io/badge/-PWA/SPA-5A0FC8?logo=pwa&logoColor=white" /></a>
-<a href="https://archlinux.org/"><img alt="EndeavourOS" src="https://img.shields.io/badge/-EndeavourOS-7F7FFF?logo=endeavouros&logoColor=white" /></a>
+<a href="https://endeavouros.com/"><img alt="EndeavourOS" src="https://img.shields.io/badge/-EndeavourOS-7F7FFF?logo=endeavouros&logoColor=white" /></a>
 <a href="https://jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-white?logo=intellijidea&logoColor=black" /></a>
 <a href="https://vscodium.com/"><img alt="VSCodium" src="https://img.shields.io/badge/-VSCodium-2F80ED?style=flat&logo=vscodium&logoColor=white" /></a>
 
