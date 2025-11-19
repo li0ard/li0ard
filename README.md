@@ -9,21 +9,21 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 
 ### 🔧 Languages and tools
 
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat&logo=javascript&logoColor=white" /></a>
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-235a96?style=flat&logo=typescript&logoColor=white" /></a>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-397ab2?style=flat&logo=Python&logoColor=white" /></a>
-<a href="https://golang.org/"><img alt="Go" src="https://img.shields.io/badge/-Go-008184?style=flat&logo=go&logoColor=white" /></a>
-<a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" /></a>
+<a href="https://golang.org/"><img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" /></a>
+<a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white" /></a>
 <a href="https://bun.sh/"><img alt="Node.js" src="https://img.shields.io/badge/-Bun-222222?style=flat&logo=Bun&logoColor=white" /></a>
 <a href="https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/-Express-fdfdfd?style=flat&logo=express&logoColor=black" /></a>
 <a href="https://nestjs.com/"><img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-e0234e?style=flat&logo=nestjs&logoColor=white" /></a>
-<a href="https://leafletjs.com/"><img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-222222?logo=leaflet" /></a>
-<a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-282c34?style=flat&logo=react&logoColor=white" /></a>
-<a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-222222?style=flat&logo=vuedotjs" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"><img alt="PWA" src="https://img.shields.io/badge/-PWA-222222?logo=pwa" /></a>
-<a href="https://archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20linux-222222?logo=archlinux" /></a>
-<a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-white?logo=intellijidea&logoColor=black" /></a>
-<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0066b8?style=flat&logo=visualstudiocode&logoColor=white" /></a>
+<a href="https://leafletjs.com/"><img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=white" /></a>
+<a href="https://svelte.dev"><img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" /></a>
+<a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"><img alt="PWA/SPA" src="https://img.shields.io/badge/-PWA/SPA-5A0FC8?logo=pwa&logoColor=white" /></a>
+<a href="https://archlinux.org/"><img alt="EndeavourOS" src="https://img.shields.io/badge/-EndeavourOS-7F7FFF?logo=endeavouros&logoColor=white" /></a>
+<a href="https://jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-white?logo=intellijidea&logoColor=black" /></a>
+<a href="https://vscodium.com/"><img alt="VSCodium" src="https://img.shields.io/badge/-VSCodium-2F80ED?style=flat&logo=vscodium&logoColor=white" /></a>
 
 
 |   Language   | CEFR level |
@@ -43,6 +43,7 @@ Started by writing Discord and Telegram bots, now designing and writing backend/
 - **[sshsign](https://github.com/theinfinityway/sshsign)** - **Simple CLI for signing files using SSH keys**
 - **[@li0ard/ons](https://github.com/li0ard/ons)** - **Library for working with [Oxen Name System](https://oxen.io/oxen-name-system-ons-the-facts)**
 - **[@li0ard/renderbatch](https://github.com/li0ard/renderbatch)** - **Decoder and HTML builder for Blazor `RenderBatch` frames**
+- **[@li0ard/tinytlv](https://github.com/li0ard/tinytlv)** - **Simple and tiny encoder/decoder for TLV**
 
 ##### 🛂 eMRTD
 - **[@li0ard/tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
