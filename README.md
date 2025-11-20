@@ -3,9 +3,11 @@
   <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true#gh-dark-mode-only">
   <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true&hide=html">
 
-My name is **Nikolai Konovalov**, also you may know me as **li0ard** (pronounced *Lizard*). Im an Open Source enthusiast and software engineer. I ❤️ coffee, Linux, music, books, cryptography and films.
+My name is **Nikolai Konovalov**, also you may know me as **li0ard** (pronounced *Lizard*). I'm cryptography engineer, OSS maintainer and eMRTD researcher.
 
-Started by writing Discord and Telegram bots, now designing and writing backend/frontend, writing articles about my work and administrating I2P servers.
+I ❤️ coffee, Linux, music, books, cryptography and films.
+
+Started by writing Discord and Telegram bots, now architect cryptography libraries, building eMRTD tools, and writing articles about my work.
 
 ### 🔧 Languages and tools
 
