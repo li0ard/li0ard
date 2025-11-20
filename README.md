@@ -5,7 +5,7 @@
 
 My name is **Nikolai Konovalov**, also you may know me as **li0ard** (pronounced *Lizard*). I'm cryptography engineer, OSS maintainer and eMRTD researcher.
 
-I ❤️ coffee, Linux, music, books, cryptography and films.
+I ❤️ coffee, Linux, music, books and films.
 
 Started by writing Discord and Telegram bots, now architect cryptography libraries, building eMRTD tools, and writing articles about my work.
 
