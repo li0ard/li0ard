@@ -1,7 +1,7 @@
 # Hi :wave:! <img align="right" src="https://komarev.com/ghpvc/?username=li0ard&color=79C83D&abbreviated=true&label=%F0%9F%91%81+Visitors+%20&base=341" />
 
-  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true#gh-dark-mode-only">
-  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true&hide=html">
+  <img width="55%" align="right" src="https://github-readme-stats-sigma-ochre-60.vercel.app/api?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true#gh-dark-mode-only">
+  <img width="55%" align="right" src="https://github-readme-stats-sigma-ochre-60.vercel.app/api/top-langs/?username=li0ard&theme=github_dark_dimmed&hide_border=true&count_private=true&layout=compact&hide_title=true&hide=html">
 
 My name is **Nikolai Konovalov**, also you may know me as **li0ard** (pronounced *Lizard*). I'm cryptography engineer, OSS maintainer and eMRTD researcher.
 
