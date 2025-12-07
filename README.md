@@ -49,6 +49,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 
 ##### 🛂 eMRTD
 - **[@li0ard/tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
+- **[@li0ard/vds](https://github.com/li0ard/vds)** - **Library for working with [ICAO Visible Digital Seals](https://www.unescap.org/sites/default/d8files/event-documents/VDS%20for%20ESCAP.pdf)**
 - **[@li0ard/icaopkd](https://github.com/li0ard/icaopkd)** - **Helper for ICAO PKD master lists**
 - **[@li0ard/jp2](https://github.com/li0ard/jp2)** - **JPEG2000 to PNG converter**
 - **[@li0ard/wsq](https://github.com/li0ard/wsq)** - **Wavelet Scalar Quantization (WSQ) to PNG converter**
