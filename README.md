@@ -74,6 +74,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/bign](https://github.com/li0ard/bign)** - **Bign (STB 34.101.45) curves and DSA**
 
 ##### 🔐 Other algorithms
+- **[@li0ard/des](https://github.com/li0ard/des)** - **DES cipher implementation**
 - **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **KeeLoq cipher implementation**
 - **[@li0ard/crapto1_ts](https://github.com/li0ard/crapto1_ts)** - **Crypto-1 cipher implementation. Recovering MIFARE Classic keys in TypeScript**
 
