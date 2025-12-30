@@ -53,6 +53,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/icaopkd](https://github.com/li0ard/icaopkd)** - **Helper for ICAO PKD master lists**
 - **[@li0ard/jp2](https://github.com/li0ard/jp2)** - **JPEG2000 to PNG converter**
 - **[@li0ard/wsq](https://github.com/li0ard/wsq)** - **Wavelet Scalar Quantization (WSQ) to PNG converter**
+- **[@li0ard/mrtd_passive_auth](https://github.com/li0ard/passive_auth)** - **PoC for Passive Authentication (PA) implementation for eMRTD**
 
 ##### 🔐 GOST algorithms (🇷🇺)
 - **[@li0ard/streebog](https://github.com/li0ard/streebog)** - **Streebog (GOST R 34.11-2012) hash function**
