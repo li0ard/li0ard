@@ -46,7 +46,11 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/ons](https://github.com/li0ard/ons)** - **Library for working with [Oxen Name System](https://oxen.io/oxen-name-system-ons-the-facts)**
 - **[@li0ard/renderbatch](https://github.com/li0ard/renderbatch)** - **Decoder and HTML builder for Blazor `RenderBatch` frames**
 - **[@li0ard/tinytlv](https://github.com/li0ard/tinytlv)** - **Simple and tiny encoder/decoder for TLV**
+
+##### 🔑 Key
 - **[@li0ard/widevine](https://github.com/li0ard/widevine)** - **Simple Widevine CDM implementation**
+- **[@li0ard/playready](https://github.com/li0ard/playready)** - **Simple PlayReady CDM implementation**
+- **[@li0ard/pssh](https://github.com/li0ard/pssh)** - **Protection System Specific Header (PSSH) decoder and encoder**
 
 ##### 🛂 eMRTD
 - **[@li0ard/tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
