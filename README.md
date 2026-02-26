@@ -51,6 +51,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/widevine](https://github.com/li0ard/widevine)** - **Simple Widevine CDM implementation**
 - **[@li0ard/playready](https://github.com/li0ard/playready)** - **Simple PlayReady CDM implementation**
 - **[@li0ard/pssh](https://github.com/li0ard/pssh)** - **Protection System Specific Header (PSSH) decoder and encoder**
+- **[@li0ard/dcsl](https://github.com/li0ard/dcsl)** - **Mini CLI to check Widevine device certificate (DCSL)**
 
 ##### 🛂 eMRTD
 - **[@li0ard/tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
