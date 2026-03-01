@@ -49,6 +49,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 
 ##### 🔑 DRM research
 - **[@li0ard/widevine](https://github.com/li0ard/widevine)** - **Simple Widevine CDM implementation**
+- **[@li0ard/widevineproto](https://github.com/li0ard/widevineproto)** - **Protobuf's for Widevine**
 - **[@li0ard/playready](https://github.com/li0ard/playready)** - **Simple PlayReady CDM implementation**
 - **[@li0ard/pssh](https://github.com/li0ard/pssh)** - **Protection System Specific Header (PSSH) decoder and encoder**
 - **[@li0ard/dcsl](https://github.com/li0ard/dcsl)** - **Mini CLI to check Widevine device certificate (DCSL)**
