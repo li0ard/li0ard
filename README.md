@@ -47,6 +47,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/renderbatch](https://github.com/li0ard/renderbatch)** - **Decoder and HTML builder for Blazor `RenderBatch` frames**
 - **[@li0ard/tinytlv](https://github.com/li0ard/tinytlv)** - **Simple and tiny encoder/decoder for TLV**
 - **[@li0ard/umarsh](https://github.com/li0ard/umarsh)** - **Umarsh (transit pass system) parser**
+- **[@li0ard/ssh](https://github.com/li0ard/ssh)** - **SSH keys toolkit**
 
 ##### 🔑 DRM research
 - **[@li0ard/widevine](https://github.com/li0ard/widevine)** - **Simple Widevine CDM implementation**
