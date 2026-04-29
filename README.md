@@ -84,6 +84,9 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/belt](https://github.com/li0ard/belt)** - **BelT (STB 34.101.31) cipher implementation**
 - **[@li0ard/bign](https://github.com/li0ard/bign)** - **Bign (STB 34.101.45) curves and DSA**
 
+##### 🔐 ShangMi (SM) algorithms (🇨🇳)
+- **[@li0ard/sm3](https://github.com/li0ard/sm3)** - **SM3 (GB/T 32905-2016) hash function**
+
 ##### 🔐 Other algorithms
 - **[@li0ard/des](https://github.com/li0ard/des)** - **DES cipher implementation**
 - **[@li0ard/blowfish](https://github.com/li0ard/blowfish)** - **Blowfish cipher implementation**
