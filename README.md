@@ -87,6 +87,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 ##### 🔐 ShangMi (SM) algorithms (🇨🇳)
 - **[@li0ard/sm3](https://github.com/li0ard/sm3)** - **SM3 (GB/T 32905-2016) hash function**
 - **[@li0ard/sm4](https://github.com/li0ard/sm4)** - **SM4 (GB/T 32907-2016) cipher implementation**
+- **[@li0ard/sm2](https://github.com/li0ard/sm2)** - **SM2 (GB/T 32918-2016) curves and DSA**
 
 ##### 🔐 Other algorithms
 - **[@li0ard/des](https://github.com/li0ard/des)** - **DES cipher implementation**
