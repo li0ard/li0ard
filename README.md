@@ -17,8 +17,6 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 <a href="https://golang.org/"><img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" /></a>
 <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white" /></a>
 <a href="https://bun.sh/"><img alt="Node.js" src="https://img.shields.io/badge/-Bun-222222?style=flat&logo=Bun&logoColor=white" /></a>
-<a href="https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/-Express-fdfdfd?style=flat&logo=express&logoColor=black" /></a>
-<a href="https://nestjs.com/"><img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-e0234e?style=flat&logo=nestjs&logoColor=white" /></a>
 <a href="https://leafletjs.com/"><img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=white" /></a>
 <a href="https://svelte.dev"><img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" /></a>
 <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /></a>
