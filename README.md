@@ -33,10 +33,6 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 | 🇺🇦 Ukrainian |     A2     |
 
 ### 💡 Projects
-
-- **[cpfx](https://github.com/li0ard/cpfx) ([web version](https://github.com/li0ard/cpfx_web))** - **PFX decoder for CryptoPro**
-- **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder for CryptoPro**
-- **[rutoken_go](https://github.com/li0ard/rutoken_go)** - **Container extractor for Rutoken Lite**
 - **[nechestniy_znak](https://github.com/li0ard/nechestniy_znak)** - **Library for working with national product labeling system in Russia (In russian - Честный знак)**
 - **[oms-barcode](https://github.com/li0ard/oms_barcode)** ([legacy version](https://github.com/li0ard/oms-barcode)) - **Barcode decoder of Russian compulsory medical insurance policy (In russian - ОМС)**
 - **[Session ID](https://github.com/theinfinityway/session_id)** - **Library for working with [Session](https://getsession.org) User ID's**
@@ -47,6 +43,12 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/umarsh](https://github.com/li0ard/umarsh)** - **Umarsh (transit pass system) parser**
 - **[@li0ard/ssh](https://github.com/li0ard/ssh)** - **SSH keys toolkit**
 - **[@li0ard/aspe](https://github.com/li0ard/aspe)** - **simple library for [Ariadne Signature Profile (ASP)](https://ariadne.id/related/ariadne-signature-profile-0)**
+
+##### 🔑 CryptoPro research
+- **[@li0ard/cpfx](https://github.com/li0ard/cpfx_ts) ([web version](https://github.com/li0ard/cpfx_web))** - PFX and private key container decoder for CryptoPro (TS)
+- **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder for CryptoPro (Python)**
+- **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder for CryptoPro (Python)**
+- **[rutoken_go](https://github.com/li0ard/rutoken_go)** - **Container extractor for Rutoken Lite**
 
 ##### 🔑 DRM research
 - **[@li0ard/widevine](https://github.com/li0ard/widevine)** - **Simple Widevine CDM implementation**
