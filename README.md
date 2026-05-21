@@ -66,6 +66,9 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/mrtd_passive_auth](https://github.com/li0ard/passive_auth)** - **PoC for Passive Authentication (PA) implementation for eMRTD**
 
 ##### 🔐 GOST algorithms (🇷🇺)
+- **[@li0ard/gost](https://github.com/li0ard/gost)** - **All-in-One library for GOST algorithms**
+
+###### Archived:
 - **[@li0ard/streebog](https://github.com/li0ard/streebog)** - **Streebog (GOST R 34.11-2012) hash function**
 - **[@li0ard/gost3413](https://github.com/li0ard/gost3413)** - **Cipher modes and padding's according to GOST R 34.13-2015**
 - **[@li0ard/magma](https://github.com/li0ard/magma)** - **Magma (GOST R 34.12-2015/GOST 28147-89) cipher implementation**
