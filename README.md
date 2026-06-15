@@ -94,6 +94,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/zuc](https://github.com/li0ard/zuc)** - **ZUC (GB/T 33133.1-2016) cipher implementation**
 
 ##### 🔐 Other algorithms
+- **[@li0ard/sp80038](https://github.com/li0ard/sp80038)** - **Cipher modes according to NIST SP 800-38**
 - **[@li0ard/des](https://github.com/li0ard/des)** - **DES cipher implementation**
 - **[@li0ard/blowfish](https://github.com/li0ard/blowfish)** - **Blowfish cipher implementation**
 - **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **KeeLoq cipher implementation**
