@@ -40,22 +40,23 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/ons](https://github.com/li0ard/ons)** - **Library for working with [Oxen Name System](https://oxen.io/oxen-name-system-ons-the-facts)**
 - **[@li0ard/renderbatch](https://github.com/li0ard/renderbatch)** - **Decoder and HTML builder for Blazor `RenderBatch` frames**
 - **[@li0ard/tinytlv](https://github.com/li0ard/tinytlv)** - **Simple and tiny encoder/decoder for TLV**
-- **[@li0ard/umarsh](https://github.com/li0ard/umarsh)** - **Umarsh (transit pass system) parser**
 - **[@li0ard/ssh](https://github.com/li0ard/ssh)** - **SSH keys toolkit**
 - **[@li0ard/aspe](https://github.com/li0ard/aspe)** - **simple library for [Ariadne Signature Profile (ASP)](https://ariadne.id/related/ariadne-signature-profile-0)**
 
-##### 🔑 CryptoPro research
-- **[@li0ard/cpfx](https://github.com/li0ard/cpfx_ts) ([web version](https://github.com/li0ard/cpfx_web))** - PFX and private key container decoder for CryptoPro (TS)
+##### 📝 Researches
+- **[Umarsh (transit pass system)](https://github.com/li0ard/umarsh)**
+- **[Signal usernames](https://github.com/li0ard/signal_usernames)**
+
+###### 🔑 CryptoPro research
+- **[@li0ard/cpfx](https://github.com/li0ard/cpfx_ts) ([web version](https://github.com/li0ard/cpfx_web))** - **PFX and private key container decoder for CryptoPro (TS)**
 - **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder for CryptoPro (Python)**
 - **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder for CryptoPro (Python)**
 - **[rutoken_go](https://github.com/li0ard/rutoken_go)** - **Container extractor for Rutoken Lite**
 
-##### 🔑 DRM research
+###### 🔑 DRM research
 - **[@li0ard/widevine](https://github.com/li0ard/widevine)** - **Simple Widevine CDM implementation**
 - **[@li0ard/widevineproto](https://github.com/li0ard/widevineproto)** - **Protobuf's for Widevine**
 - **[@li0ard/playready](https://github.com/li0ard/playready)** - **Simple PlayReady CDM implementation**
-- **[@li0ard/pssh](https://github.com/li0ard/pssh)** - **Protection System Specific Header (PSSH) decoder and encoder**
-- **[@li0ard/dcsl](https://github.com/li0ard/dcsl)** - **Mini CLI to check Widevine device certificate (DCSL)**
 
 ##### 🛂 eMRTD
 - **[@li0ard/tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
@@ -65,25 +66,9 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/wsq](https://github.com/li0ard/wsq)** - **Wavelet Scalar Quantization (WSQ) to PNG converter**
 - **[@li0ard/mrtd_passive_auth](https://github.com/li0ard/passive_auth)** - **PoC for Passive Authentication (PA) implementation for eMRTD**
 
-##### 🔐 GOST algorithms (🇷🇺)
-- **[@li0ard/gost](https://github.com/li0ard/gost)** - **All-in-One library for GOST algorithms**
-
-###### Archived:
-- **[@li0ard/streebog](https://github.com/li0ard/streebog)** - **Streebog (GOST R 34.11-2012) hash function**
-- **[@li0ard/gost3413](https://github.com/li0ard/gost3413)** - **Cipher modes and padding's according to GOST R 34.13-2015**
-- **[@li0ard/magma](https://github.com/li0ard/magma)** - **Magma (GOST R 34.12-2015/GOST 28147-89) cipher implementation**
-- **[@li0ard/kuznyechik](https://github.com/li0ard/kuznyechik)** - **Kuznyechik (GOST R 34.12-2015) cipher implementation**
-- **[@li0ard/gost341194](https://github.com/li0ard/gost341194)** - **GOST R 34.11-94 hash function**
-- **[@li0ard/gostcurves](https://github.com/li0ard/gostcurves)** - **GOST R 34.10 (2001/2012) curves and DSA**
-
-##### 🔐 DSTU algorithms (🇺🇦)
-- **[@li0ard/dstu](https://github.com/li0ard/dstu)** - **All-in-One library for DSTU algorithms**
-
-###### Archived:
-- **[@li0ard/kupyna](https://github.com/li0ard/kupyna)** - **Kupyna (DSTU 7564:2014) hash function**
-- **[@li0ard/kalyna](https://github.com/li0ard/kalyna)** - **Kalyna (DSTU 7624:2014) cipher implementation**
-- **[@li0ard/strumok](https://github.com/li0ard/strumok)** - **Strumok (DSTU 8845:2019) cipher implementation**
-- **[dstu4145_go](https://github.com/li0ard/dstu4145_go)** - **DSTU 4145-2002 curves and DSA in Go**
+##### 🔐 All-in-One (AiO) cryptographic libraries
+- **[@li0ard/gost](https://github.com/li0ard/gost)** - **AiO library for 🇷🇺 GOST algorithms**
+- **[@li0ard/dstu](https://github.com/li0ard/dstu)** - **AiO library for 🇺🇦 DSTU algorithms**
 
 ##### 🔐 STB algorithms (🇧🇾)
 - **[@li0ard/bash](https://github.com/li0ard/bash)** - **Bash (STB 34.101.77) hash function**
