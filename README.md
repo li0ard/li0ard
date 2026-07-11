@@ -33,42 +33,26 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 | 🇺🇦 Ukrainian |     A2     |
 
 ### 💡 Projects
-- **[nechestniy_znak](https://github.com/li0ard/nechestniy_znak)** - **Library for working with national product labeling system in Russia (In russian - Честный знак)**
-- **[oms-barcode](https://github.com/li0ard/oms_barcode)** ([legacy version](https://github.com/li0ard/oms-barcode)) - **Barcode decoder of Russian compulsory medical insurance policy (In russian - ОМС)**
-- **[Session ID](https://github.com/theinfinityway/session_id)** - **Library for working with [Session](https://getsession.org) User ID's**
-- **[sshsign](https://github.com/theinfinityway/sshsign)** - **Simple CLI for signing files using SSH keys**
+- **[nechestniy_znak](https://github.com/li0ard/nechestniy_znak)** - **Library for working with national product labeling system in Russia (In Russian - Честный знак)**
+- **[@li0ard/oms_barcode](https://github.com/li0ard/oms_barcode)** - **Barcode decoder of Russian compulsory medical insurance policy (In Russian - Полис ОМС)**
+- **[@li0ard/session_id](https://github.com/theinfinityway/session_id)** - **Library for working with [Session](https://getsession.org) User ID's**
 - **[@li0ard/ons](https://github.com/li0ard/ons)** - **Library for working with [Oxen Name System](https://oxen.io/oxen-name-system-ons-the-facts)**
 - **[@li0ard/renderbatch](https://github.com/li0ard/renderbatch)** - **Decoder and HTML builder for Blazor `RenderBatch` frames**
 - **[@li0ard/tinytlv](https://github.com/li0ard/tinytlv)** - **Simple and tiny encoder/decoder for TLV**
 - **[@li0ard/ssh](https://github.com/li0ard/ssh)** - **SSH keys toolkit**
-- **[@li0ard/aspe](https://github.com/li0ard/aspe)** - **simple library for [Ariadne Signature Profile (ASP)](https://ariadne.id/related/ariadne-signature-profile-0)**
-
-##### 📝 Researches
-- **[Umarsh (transit pass system)](https://github.com/li0ard/umarsh)**
-- **[Signal usernames](https://github.com/li0ard/signal_usernames)**
-
-###### 🔑 CryptoPro research
-- **[@li0ard/cpfx](https://github.com/li0ard/cpfx_ts) ([web version](https://github.com/li0ard/cpfx_web))** - **PFX and private key container decoder for CryptoPro (TS)**
-- **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder for CryptoPro (Python)**
-- **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder for CryptoPro (Python)**
-- **[rutoken_go](https://github.com/li0ard/rutoken_go)** - **Container extractor for Rutoken Lite**
-
-###### 🔑 DRM research
-- **[@li0ard/widevine](https://github.com/li0ard/widevine)** - **Simple Widevine CDM implementation**
-- **[@li0ard/widevineproto](https://github.com/li0ard/widevineproto)** - **Protobuf's for Widevine**
-- **[@li0ard/playready](https://github.com/li0ard/playready)** - **Simple PlayReady CDM implementation**
+- **[@li0ard/aspe](https://github.com/li0ard/aspe)** - **Simple library for [Ariadne Signature Profile (ASP)](https://ariadne.id/related/ariadne-signature-profile-0)**
 
 ##### 🛂 eMRTD
 - **[@li0ard/tsemrtd](https://github.com/li0ard/tsemrtd)** - **Library for working with [eMRTD](https://schengen-it-systems.ec.europa.eu/glossary/electronic-machine-readable-travel-document-emrtd) LDS datagroups**
-- **[@li0ard/vds](https://github.com/li0ard/vds)** - **Library for working with [ICAO Visible Digital Seals](https://www.unescap.org/sites/default/d8files/event-documents/VDS%20for%20ESCAP.pdf)**
+- **[@li0ard/vds](https://github.com/li0ard/vds)** - **Library for working with ICAO Visible Digital Seals (VDS)**
 - **[@li0ard/icaopkd](https://github.com/li0ard/icaopkd)** - **Helper for ICAO PKD master lists**
 - **[@li0ard/jp2](https://github.com/li0ard/jp2)** - **JPEG2000 to PNG converter**
 - **[@li0ard/wsq](https://github.com/li0ard/wsq)** - **Wavelet Scalar Quantization (WSQ) to PNG converter**
 - **[@li0ard/mrtd_passive_auth](https://github.com/li0ard/passive_auth)** - **PoC for Passive Authentication (PA) implementation for eMRTD**
 
-##### 🔐 All-in-One (AiO) cryptographic libraries
-- **[@li0ard/gost](https://github.com/li0ard/gost)** - **AiO library for 🇷🇺 GOST algorithms**
-- **[@li0ard/dstu](https://github.com/li0ard/dstu)** - **AiO library for 🇺🇦 DSTU algorithms**
+##### 🔐 All-in-One cryptographic libraries
+- **[@li0ard/gost](https://github.com/li0ard/gost)** - **All-in-One library for 🇷🇺 GOST algorithms**
+- **[@li0ard/dstu](https://github.com/li0ard/dstu)** - **All-in-One library for 🇺🇦 DSTU algorithms**
 
 ##### 🔐 STB algorithms (🇧🇾)
 - **[@li0ard/bash](https://github.com/li0ard/bash)** - **Bash (STB 34.101.77) hash function**
@@ -88,3 +72,17 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **KeeLoq cipher implementation**
 - **[@li0ard/crapto1_ts](https://github.com/li0ard/crapto1_ts)** - **Crypto-1 cipher implementation. Recovering MIFARE Classic keys in TypeScript**
 
+### 📝 Researches
+- **[Umarsh (transit pass system)](https://github.com/li0ard/umarsh)**
+- **[Signal usernames](https://github.com/li0ard/signal_usernames)**
+
+##### 🔑 CryptoPro research
+- **[@li0ard/cpfx](https://github.com/li0ard/cpfx_ts) ([web version](https://github.com/li0ard/cpfx_web))** - **PFX and private key container decoder for CryptoPro (TS)**
+- **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder for CryptoPro (Python)**
+- **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder for CryptoPro (Python)**
+- **[rutoken_go](https://github.com/li0ard/rutoken_go)** - **Container extractor for Rutoken Lite**
+
+##### 🔑 DRM research
+- **[@li0ard/widevine](https://github.com/li0ard/widevine)** - **Simple Widevine CDM implementation**
+- **[@li0ard/widevineproto](https://github.com/li0ard/widevineproto)** - **Protobuf's for Widevine**
+- **[@li0ard/playready](https://github.com/li0ard/playready)** - **Simple PlayReady CDM implementation**
