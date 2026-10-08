@@ -71,6 +71,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/blowfish](https://github.com/li0ard/blowfish)** - **Blowfish cipher implementation**
 - **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **KeeLoq cipher implementation**
 - **[@li0ard/crapto1_ts](https://github.com/li0ard/crapto1_ts)** - **Crypto-1 cipher implementation. Recovering MIFARE Classic keys in TypeScript**
+- **[@li0ard/angstrem3](https://github.com/li0ard/angstrem3)** - **Angstrem-3 cipher implementation**
 
 ### 📝 Researches
 - **[Umarsh (transit pass system)](https://github.com/li0ard/umarsh)**
@@ -81,8 +82,3 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[cpfx](https://github.com/li0ard/cpfx)** - **PFX decoder for CryptoPro (Python)**
 - **[ckey](https://github.com/li0ard/ckey)** - **Private key container decoder for CryptoPro (Python)**
 - **[rutoken_go](https://github.com/li0ard/rutoken_go)** - **Container extractor for Rutoken Lite**
-
-##### 🔑 DRM research
-- **[@li0ard/widevine](https://github.com/li0ard/widevine)** - **Simple Widevine CDM implementation**
-- **[@li0ard/widevineproto](https://github.com/li0ard/widevineproto)** - **Protobuf's for Widevine**
-- **[@li0ard/playready](https://github.com/li0ard/playready)** - **Simple PlayReady CDM implementation**
