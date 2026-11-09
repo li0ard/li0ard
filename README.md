@@ -33,10 +33,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 | 🇺🇦 Ukrainian |     A2     |
 
 ### 💡 Projects
-- **[nechestniy_znak](https://github.com/li0ard/nechestniy_znak)** - **Library for working with national product labeling system in Russia (In Russian - Честный знак)**
 - **[@li0ard/oms_barcode](https://github.com/li0ard/oms_barcode)** - **Barcode decoder of Russian compulsory medical insurance policy (In Russian - Полис ОМС)**
-- **[@li0ard/session_id](https://github.com/theinfinityway/session_id)** - **Library for working with [Session](https://getsession.org) User ID's**
-- **[@li0ard/ons](https://github.com/li0ard/ons)** - **Library for working with [Oxen Name System](https://oxen.io/oxen-name-system-ons-the-facts)**
 - **[@li0ard/renderbatch](https://github.com/li0ard/renderbatch)** - **Decoder and HTML builder for Blazor `RenderBatch` frames**
 - **[@li0ard/tinytlv](https://github.com/li0ard/tinytlv)** - **Simple and tiny encoder/decoder for TLV**
 - **[@li0ard/ssh](https://github.com/li0ard/ssh)** - **SSH keys toolkit**
@@ -53,11 +50,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 ##### 🔐 All-in-One cryptographic libraries
 - **[@li0ard/gost](https://github.com/li0ard/gost)** - **All-in-One library for 🇷🇺 GOST algorithms**
 - **[@li0ard/dstu](https://github.com/li0ard/dstu)** - **All-in-One library for 🇺🇦 DSTU algorithms**
-
-##### 🔐 STB algorithms (🇧🇾)
-- **[@li0ard/bash](https://github.com/li0ard/bash)** - **Bash (STB 34.101.77) hash function**
-- **[@li0ard/belt](https://github.com/li0ard/belt)** - **BelT (STB 34.101.31) cipher implementation**
-- **[@li0ard/bign](https://github.com/li0ard/bign)** - **Bign (STB 34.101.45) curves and DSA**
+- **[@li0ard/stb](https://github.com/li0ard/stb)** - **All-in-One library for 🇧🇾 STB algorithms**
 
 ##### 🔐 ShangMi (SM) algorithms (🇨🇳)
 - **[@li0ard/sm3](https://github.com/li0ard/sm3)** - **SM3 (GB/T 32905-2016) hash function**
@@ -71,7 +64,6 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 - **[@li0ard/blowfish](https://github.com/li0ard/blowfish)** - **Blowfish cipher implementation**
 - **[@li0ard/keeloq](https://github.com/li0ard/keeloq)** - **KeeLoq cipher implementation**
 - **[@li0ard/crapto1_ts](https://github.com/li0ard/crapto1_ts)** - **Crypto-1 cipher implementation. Recovering MIFARE Classic keys in TypeScript**
-- **[@li0ard/angstrem3](https://github.com/li0ard/angstrem3)** - **Angstrem-3 cipher implementation**
 
 ### 📝 Researches
 - **[Umarsh (transit pass system)](https://github.com/li0ard/umarsh)**
