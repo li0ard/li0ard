@@ -29,7 +29,7 @@ Started by writing Discord and Telegram bots, now architect cryptography librari
 |   Language   | CEFR level |
 |:------------:|:----------:|
 |  🇷🇺 Russian  |   Native   |
-|  🇬🇧 English  |     [B2](https://cert.efset.org/YgSdsY)     |
+|  🇬🇧 English  |     [C1](https://cert.efset.org/4XJRa7)     |
 | 🇺🇦 Ukrainian |     A2     |
 
 ### 💡 Projects
